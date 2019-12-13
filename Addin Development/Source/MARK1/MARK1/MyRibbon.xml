@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    
+    <tabs>
+      <tab idMso="TabAddIns">
+        <group id="MFAGroup" label="MFA">
+          <button id="VistorsRoom" label="Visitor's Room"
+             screentip="Fifth Floor Visitor's Room" onAction="OnVisitorsRoomButton"
+             size="large" imageMso="MicrosoftPowerPoint"
+                  />
+          <button id="TanglinRoom" label="Tanglin Room"
+             screentip="Sixth Floor Tanglin Room" onAction="OnTanglinRoomButton"
+             size="large" imageMso="MicrosoftPowerPoint"
+                  />
+        </group>
+        
+        <group id="IstanaGroup" label="Istana">
+          <button id="PMOffice" label="PM's Office"
+             onAction="OnTanglinRoomButton"
+             size="large" imageMso="MicrosoftPowerPoint"
+                  />
+          <button id="EastDrawingRoom" label="East Drawing Room"
+             onAction="OnTanglinRoomButton"
+                  />
+          <button id="WestDrawingRoom" label="West Drawing Room"
+             onAction="OnTanglinRoomButton"
+                  />          
+        </group>
+
+        <group id="GenericGroup" label="Generic">
+          <button id="BoardSetting" label="Board Room"
+             onAction="OnTanglinRoomButton"
+             size="large" imageMso="MicrosoftPowerPoint"
+                  />
+          <button id="CallSetting" label="Call Setting"
+             onAction="OnTanglinRoomButton"
+             size="large" imageMso="MicrosoftPowerPoint"
+                  />
+          <button id="SofaSetting" label="Sofa Setting"
+             onAction="OnTanglinRoomButton"
+             size="large" imageMso="MicrosoftPowerPoint"
+                  />
+        </group>
+
+        <group id="TemplateGroup" label="Templates">
+          <button id="NOC" label="NOC"
+             onAction="OnNOCButton"
+             size="large" imageMso="FileSaveAsWordDocx"
+                  />
+          <button id="Filenote" label="Filenote"
+             onAction="OnTanglinRoomButton"
+             size="large" imageMso="FileSaveAsWordDocx"
+                  />
+          <button id="SummaryNote" label="Summary Note"
+             onAction="OnTanglinRoomButton"
+             size="large" imageMso="FileSaveAsWordDocx"
+                  />
+          
+        </group>
+
+
+      </tab>
+    </tabs>
+    
+  </ribbon>
+</customUI>
+
