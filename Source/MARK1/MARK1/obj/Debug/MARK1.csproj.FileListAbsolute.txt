@@ -1,0 +1,11 @@
+C:\Users\guide\source\repos\MARK1\MARK1\bin\Debug\MARK1.dll
+C:\Users\guide\source\repos\MARK1\MARK1\bin\Debug\MARK1.pdb
+C:\Users\guide\source\repos\MARK1\MARK1\bin\Debug\MARK1.dll.manifest
+C:\Users\guide\source\repos\MARK1\MARK1\bin\Debug\MARK1.vsto
+C:\Users\guide\source\repos\MARK1\MARK1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\guide\source\repos\MARK1\MARK1\obj\Debug\MARK1.csprojAssemblyReference.cache
+C:\Users\guide\source\repos\MARK1\MARK1\obj\Debug\MARK1.Properties.Resources.resources
+C:\Users\guide\source\repos\MARK1\MARK1\obj\Debug\MARK1.csproj.GenerateResource.cache
+C:\Users\guide\source\repos\MARK1\MARK1\obj\Debug\MARK1.csproj.CopyComplete
+C:\Users\guide\source\repos\MARK1\MARK1\obj\Debug\MARK1.dll
+C:\Users\guide\source\repos\MARK1\MARK1\obj\Debug\MARK1.pdb
